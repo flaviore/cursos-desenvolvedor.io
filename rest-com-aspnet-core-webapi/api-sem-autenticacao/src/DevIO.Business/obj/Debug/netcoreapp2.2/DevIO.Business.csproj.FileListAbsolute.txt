@@ -1,0 +1,9 @@
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\flavio\source\cursos-desenvolvedor.io\rest-com-aspnet-core-webapi\api-sem-autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
